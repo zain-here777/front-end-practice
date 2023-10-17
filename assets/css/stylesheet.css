@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin: 60px;
+  display: block;
+}
+
+.box-2 {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin: 60px;
+  display: block;
+}
+
+.box-3 {
+  background-color: brown;
+  width: 200px;
+  height: 200px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin: 60px;
+  display: block;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */

@@ -1,0 +1,17 @@
+@import "variables";
+@import "fonts";
+@import "mixins";
+
+body {
+   margin: 0px;
+   padding: 0px;
+ }
+.box{
+ @include box( $bg-color:green);
+}
+.box-2 {
+  @include box($bg-color:green);
+}
+.box-3{
+  @include box($bg-color:brown);
+}

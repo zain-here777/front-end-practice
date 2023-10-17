@@ -1,0 +1,9 @@
+@mixin box($bg-color:red) {
+  background-color: $bg-color;
+  width: 200px;
+  height: 200px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin: 60px;
+  display: block;
+}
