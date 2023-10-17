@@ -10,7 +10,7 @@ body {
  @include box( $bg-color:green);
 }
 .box-2 {
-  @include box($bg-color:green);
+  @include box($bg-color:black);
 }
 .box-3{
   @include box($bg-color:brown);
