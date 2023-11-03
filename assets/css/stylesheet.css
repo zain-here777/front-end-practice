@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "Poppins-Black";
+  src: url("/assets/fonts/Poppins/Poppins-Black.ttf");
+}
 body {
   margin: 0px;
   padding: 0px;
@@ -14,7 +18,7 @@ body {
 }
 
 .box-2 {
-  background-color: green;
+  background-color: black;
   width: 200px;
   height: 200px;
   border-radius: 6px;
